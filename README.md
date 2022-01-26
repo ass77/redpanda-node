@@ -13,4 +13,3 @@ rpk topic create chat-room --broker localhost:9092
 5. Create a producer and consumer for receiving/sending messages
 6. set clientId in `producer.ts` and `consumer.ts` to chat-room and brokers to `127.0.0.1:9092` 
 7. open up at least two terminal and run `npm start`
-# redpanda-node
