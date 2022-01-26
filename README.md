@@ -1,7 +1,7 @@
-# Basic building blocks to work with Redpanda chatting system using nodejs-typescript
+### Basic building blocks to work with Redpanda chatting system using nodejs-typescript
 
 
-## Procedure
+### Procedure
 
 1. Install redpanda | rpk cli
 2. Get redpanda services up using `systemctl start redpanda`
